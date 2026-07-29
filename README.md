@@ -124,11 +124,24 @@ The central hub for my web-based tools and educational resources targeting India
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-![Apu's GitHub stats](https://github-readme-stats.vercel.app/api?username=apupatra2009&show_icons=true&theme=default&hide_border=true)
+**Featured Work:**
+- WordPress plugin development and theming
+- Python data processing and automation
+- MySQL database administration
+- Educational platform development
+- OMR system implementation
+- MAKAUT exam report generation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apupatra2009&layout=compact&theme=default&hide_border=true)
+**Key Technologies Used:**
+- PHP (WordPress ecosystem)
+- Python (OpenCV, data processing)
+- MySQL (20+ years experience)
+- JavaScript/HTML/CSS
+- Database Administration
+
+👉 **Visit my [GitHub Profile](https://github.com/apupatra2009)** to explore repositories and contributions.
 
 ---
 
